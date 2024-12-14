@@ -1,1 +1,5 @@
 # CardConverter
+
+```
+make all
+```
